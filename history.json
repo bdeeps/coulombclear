@@ -1,0 +1,640 @@
+{
+  "title": "The history of Coulomb's law",
+  "tagline": "From a rubbed lump of amber to a twisting silver wire, a counted electron and a unit fixed by a constant of nature.",
+  "intro": "People knew for two thousand years that rubbed amber pulls at straw, but not why, or how strongly. In the 1700s experimenters found that charge can travel, that it comes in two kinds, and that lightning is the same thing. Priestley guessed the rule, Cavendish tested it in secret, and in 1785 Coulomb measured it with a twisting wire. Today the same law prints our pages and defines our units.",
+  "eras": [
+    {
+      "id": "amber",
+      "name": "Amber and sparks",
+      "from": -600,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "Rubbed amber attracts light things. Gilbert names the effect and von Guericke builds a machine to make it."
+    },
+    {
+      "id": "kinds",
+      "name": "Two kinds, and how charge moves",
+      "from": 1729,
+      "to": 1752,
+      "color": "#8ef0ff",
+      "summary": "Gray finds conductors and insulators, du Fay finds two kinds of charge, Franklin names them plus and minus and ties them to lightning."
+    },
+    {
+      "id": "law",
+      "name": "Finding the law",
+      "from": 1767,
+      "to": 1843,
+      "color": "#ffb547",
+      "summary": "Priestley guesses the inverse square, Cavendish tests it and keeps quiet, and Coulomb measures it with a torsion balance."
+    },
+    {
+      "id": "modern",
+      "name": "Counting charge and putting it to work",
+      "from": 1881,
+      "to": 2019,
+      "color": "#7be08c",
+      "summary": "The coulomb becomes a unit, the electron's charge is measured, the law is checked to sixteen decimal places, and it goes to work in copiers and chimneys."
+    }
+  ],
+  "events": [
+    {
+      "year": -600,
+      "date": "c. 600 BCE",
+      "era": "amber",
+      "art": "scroll",
+      "key": true,
+      "title": "Rubbed amber picks up straw",
+      "who": "Thales of Miletus (attributed)",
+      "where": "Miletus, Ionia",
+      "country": "Greece",
+      "text": "Greek writers credit Thales with noticing that amber, rubbed with cloth, pulls light things such as straw and feathers towards it. Nothing written by Thales survives, so the story comes from later authors. The Greek word for amber was elektron.",
+      "why": "It is the first recorded account of static electricity, and it gave electricity its name.",
+      "box": "static",
+      "sources": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "1600",
+      "era": "amber",
+      "art": "compass",
+      "key": true,
+      "title": "Electricity gets a name",
+      "who": "William Gilbert",
+      "where": "London, England",
+      "country": "England",
+      "text": "In his book De Magnete, the physician William Gilbert carefully separated the pull of rubbed amber from the pull of a lodestone. He found that many materials, not only amber, attract when rubbed, and coined the Latin word electrica for them, from the Greek for amber. The English word electricity followed in 1646, in a book by Thomas Browne.",
+      "why": "Electric attraction became its own subject, separate from magnetism.",
+      "box": "idea",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1663,
+      "date": "c. 1663",
+      "era": "amber",
+      "art": "ball",
+      "key": false,
+      "title": "A machine that makes charge",
+      "who": "Otto von Guericke",
+      "where": "Magdeburg",
+      "country": "Germany",
+      "text": "Otto von Guericke built what was probably the first electrostatic generator: a ball of sulphur turned on an axle and rubbed by hand. It gave far more charge than a rubbed rod.",
+      "why": "Experimenters now had a steady supply of charge to study.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1729,
+      "date": "30 June to 2 July 1729",
+      "era": "kinds",
+      "art": "person",
+      "key": true,
+      "title": "Charge can travel: conductors and insulators",
+      "who": "Stephen Gray and Granville Wheler",
+      "where": "Otterden Place, Kent",
+      "country": "England",
+      "text": "Stephen Gray found that the 'electric virtue' of a rubbed glass tube could be passed along pack-thread and wire, in the end for about 800 feet, as long as the line hung from silk and not from metal. He also charged a boy hung on silk cords. John Desaguliers later named the two kinds of material conductors and insulators.",
+      "why": "It showed that charge is something that moves, and that materials either carry it or hold it.",
+      "box": "static",
+      "sources": [
+        3,
+        1
+      ]
+    },
+    {
+      "year": 1733,
+      "date": "December 1733",
+      "era": "kinds",
+      "art": "leaf",
+      "key": true,
+      "title": "Two kinds of electricity",
+      "who": "Charles François de Cisternay du Fay",
+      "where": "Paris",
+      "country": "France",
+      "text": "Du Fay, keeper of the royal garden in Paris, found that charged objects fall into two groups. He called the two kinds vitreous (as on rubbed glass) and resinous (as on rubbed amber). Things with the same kind repel each other, and things with different kinds attract. His paper was printed in the Philosophical Transactions in 1734.",
+      "why": "This is the rule every school pupil learns: like charges repel, unlike charges attract.",
+      "box": "idea",
+      "sources": [
+        4,
+        1
+      ]
+    },
+    {
+      "year": 1745,
+      "date": "11 October 1745 and 1745–46",
+      "era": "kinds",
+      "art": "flask",
+      "key": false,
+      "title": "The Leyden jar stores charge",
+      "who": "Ewald Georg von Kleist; Pieter van Musschenbroek and Andreas Cunaeus",
+      "where": "Pomerania and Leiden",
+      "country": "Germany / Netherlands",
+      "text": "Kleist, and independently Musschenbroek's circle in Leiden, found that a glass jar with a conductor inside could store a large charge and give a strong shock. It was the first capacitor.",
+      "why": "Stored charge made bigger and more repeatable experiments possible.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1747,
+      "date": "1746–1750",
+      "era": "kinds",
+      "art": "quill",
+      "key": true,
+      "title": "Positive and negative",
+      "who": "Benjamin Franklin (and William Watson)",
+      "where": "Philadelphia",
+      "country": "United States",
+      "text": "Franklin began electrical experiments in late 1746 and by 1750 had a one-fluid theory: every body holds a normal amount of electrical fluid, and rubbing only moves it. A body with extra is 'positive', one with too little is 'negative'. William Watson in London said he had reached the same idea in 1747. In 1749 Franklin also called a row of linked jars an electrical 'battery'.",
+      "why": "It gave us the plus and minus signs we still use, and the idea that charge is conserved.",
+      "box": "static",
+      "sources": [
+        1,
+        5
+      ]
+    },
+    {
+      "year": 1752,
+      "date": "May and June 1752",
+      "era": "kinds",
+      "art": "bolt",
+      "key": false,
+      "title": "Lightning is electricity",
+      "who": "Thomas-François Dalibard; Benjamin Franklin",
+      "where": "Marly-la-Ville and Philadelphia",
+      "country": "France / United States",
+      "text": "Following Franklin's plan, Dalibard drew sparks from a tall iron rod during a storm at Marly-la-Ville in May 1752. In June, Franklin flew his kite in Philadelphia and charged a Leyden jar from the wet string. The kite was not struck by lightning; it picked up charge from the storm. Georg Richmann was killed trying a similar experiment in Saint Petersburg in 1753.",
+      "why": "It tied the spark from a rubbed rod to the largest electrical display in nature.",
+      "box": "machines",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1767,
+      "date": "1767",
+      "era": "law",
+      "art": "orbit",
+      "key": true,
+      "title": "Priestley guesses the inverse square",
+      "who": "Joseph Priestley",
+      "where": "Warrington, England",
+      "country": "England",
+      "text": "In his 700-page History and Present State of Electricity, written with Benjamin Franklin's encouragement, Priestley reported experiments with charged spheres and proposed that the electric force follows an inverse-square law, like Newton's gravity. He did not go on to prove it or build on it.",
+      "why": "It was the first widely read suggestion of the law's shape, made by analogy with gravity.",
+      "box": "limits",
+      "sources": [
+        7,
+        0
+      ]
+    },
+    {
+      "year": 1769,
+      "date": "1769",
+      "era": "law",
+      "art": "ball",
+      "key": false,
+      "title": "Robison measures a power of 2.06",
+      "who": "John Robison",
+      "where": "Edinburgh",
+      "country": "Scotland",
+      "text": "The Scottish physicist John Robison announced that, by his measurements, the push between two like-charged spheres fell off as the distance to the power 2.06. The work was not printed until much later.",
+      "why": "It was an early direct measurement, close to 2.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1773,
+      "date": "1773",
+      "era": "law",
+      "art": "ball",
+      "key": true,
+      "title": "Cavendish tests it and tells no one",
+      "who": "Henry Cavendish",
+      "where": "London",
+      "country": "England",
+      "text": "Cavendish charged a globe enclosed in a second metal globe, joined them, and found no charge at all left on the inner one. That can only happen if the force follows an inverse square. He concluded the power could not differ from 2 by more than about 1 part in 50. He never published it. James Clerk Maxwell found the work in Cavendish's papers, repeated the test in the 1870s, and printed it in 1879.",
+      "why": "It was the most sensitive test of the law for a century, and it stayed in a drawer.",
+      "box": "limits",
+      "sources": [
+        8,
+        9,
+        23
+      ]
+    },
+    {
+      "year": 1785,
+      "date": "1785",
+      "era": "law",
+      "art": "scales",
+      "key": true,
+      "title": "Coulomb measures the force",
+      "who": "Charles-Augustin de Coulomb",
+      "where": "Paris",
+      "country": "France",
+      "text": "Coulomb, a military engineer who had studied how wires twist, hung a waxed needle with a small pith ball on a silver wire 28 inches long inside a glass cylinder. A second charged ball pushed it away. With the balls 36° apart the wire was twisted 36°; to hold them 18° apart took 144°; at 8.5° it took 575.5°. Half the distance, four times the force. In a second memoir he showed that attraction follows the same rule.",
+      "why": "It turned a guess into a measured law, and the law has carried his name ever since.",
+      "box": "idea",
+      "sources": [
+        11,
+        10,
+        12,
+        0
+      ]
+    },
+    {
+      "year": 1843,
+      "date": "1843",
+      "era": "law",
+      "art": "flask",
+      "key": false,
+      "title": "Faraday's ice pail",
+      "who": "Michael Faraday",
+      "where": "London",
+      "country": "England",
+      "text": "Faraday lowered a charged metal ball into a metal ice pail standing on an insulator. The outside of the pail gained exactly the charge of the ball, whether or not the ball touched it. Charge on a conductor sits on its outer surface.",
+      "why": "It showed neatly that charge is conserved, and it is the idea behind the Faraday cage.",
+      "box": "limits",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1881,
+      "date": "1881",
+      "era": "modern",
+      "art": "plug",
+      "key": false,
+      "title": "The coulomb becomes a unit",
+      "who": "International Electrical Congress",
+      "where": "Paris",
+      "country": "France",
+      "text": "The first International Electrical Congress approved the coulomb as the unit of electric charge: the charge carried in one second by a current of one ampere. One coulomb is about 6.24 × 10¹⁸ electron charges. (Some accounts give 1880 for the naming.)",
+      "why": "Charge could now be measured and traded in agreed units, alongside the volt, ohm and ampere.",
+      "sources": [
+        14,
+        10
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907",
+      "era": "modern",
+      "art": "building",
+      "key": false,
+      "title": "Cleaning smoke with charge",
+      "who": "Frederick Cottrell",
+      "where": "Berkeley, California",
+      "country": "United States",
+      "text": "The chemist Frederick Cottrell applied for a patent on a device that charges the particles in smoke and then pulls them onto plates: the first recorded electrostatic precipitator. The use of a corona discharge to clear a smoke had been shown by Hohlfeld in 1824.",
+      "why": "Precipitators still take fly ash out of the chimney gases of coal power stations and cement works.",
+      "box": "machines",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909 (published 1913)",
+      "era": "modern",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Charge comes in lumps",
+      "who": "Robert Millikan and Harvey Fletcher",
+      "where": "Chicago",
+      "country": "United States",
+      "text": "At the University of Chicago, Millikan and Fletcher balanced tiny charged oil drops between two metal plates, the electric pull upward against gravity downward. The charge on a drop was always a whole number of one small unit: 1.592 × 10⁻¹⁹ C, within 0.6% of today's value. Millikan received the Nobel Prize in 1923.",
+      "why": "It measured the charge of one electron, the smallest q that can go into Coulomb's law.",
+      "box": "field",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "1911",
+      "era": "modern",
+      "art": "atomspin",
+      "key": false,
+      "title": "Coulomb's law finds the nucleus",
+      "who": "Ernest Rutherford, Hans Geiger and Ernest Marsden",
+      "where": "Manchester",
+      "country": "England",
+      "text": "Geiger and Marsden fired alpha particles at thin gold foil and found that about 1 in 8,000 bounced backwards. Rutherford explained it by Coulomb repulsion from a tiny, heavy, charged centre, and the pattern of scattering matched his formula. The nucleus had to be smaller than about 2.7 × 10⁻¹⁴ m.",
+      "why": "It showed the law still holds deep inside the atom, at distances ten thousand times smaller than the atom itself.",
+      "box": "limits",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "22 October 1938",
+      "era": "modern",
+      "art": "printer",
+      "key": false,
+      "title": "A copy made with static",
+      "who": "Chester Carlson and Otto Kornei",
+      "where": "Astoria, New York",
+      "country": "United States",
+      "text": "Carlson and his assistant Otto Kornei charged a sulphur-coated zinc plate by rubbing, exposed it to light through a glass slide, and dusted it with lycopodium powder. The powder stuck where charge remained and spelled out '10.-22.-38 ASTORIA'. His patent was granted in 1942, and the Xerox 914 copier was shown in 1959.",
+      "why": "Photocopiers and laser printers both draw their pictures with Coulomb's force.",
+      "box": "machines",
+      "sources": [
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1936 and 1971",
+      "era": "modern",
+      "art": "sinewave",
+      "key": false,
+      "title": "Exactly two, to sixteen places",
+      "who": "Samuel Plimpton and Willard Lawton; Edwin Williams, James Faller and Henry Hill",
+      "where": "Worcester, Massachusetts and Middletown, Connecticut",
+      "country": "United States",
+      "text": "Plimpton and Lawton repeated Cavendish's shell test with modern electronics in 1936 and showed the power differs from 2 by less than 2 parts in a billion. In 1971 Williams, Faller and Hill, using several concentric shells, pushed the limit to (2.7 ± 3.1) × 10⁻¹⁶.",
+      "why": "Coulomb's inverse square is one of the best-tested statements in physics.",
+      "box": "limits",
+      "sources": [
+        23,
+        9
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "20 May 2019",
+      "era": "modern",
+      "art": "digital",
+      "key": true,
+      "title": "The electron's charge defines the units",
+      "who": "General Conference on Weights and Measures",
+      "where": "Versailles",
+      "country": "France",
+      "text": "Since 1948 the ampere had been defined by the force between two current-carrying wires. In November 2018 the world's measurement bodies voted to turn this round: the elementary charge is fixed at exactly 1.602 176 634 × 10⁻¹⁹ C, and the ampere and coulomb follow from it. The change took effect on 20 May 2019. As a result Coulomb's constant k is now a measured number, no longer an exact one.",
+      "why": "The unit of charge now rests on a constant of nature that anyone can reproduce.",
+      "sources": [
+        20,
+        21,
+        22
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Electric attraction named",
+      "value": "1600",
+      "who": "William Gilbert, England"
+    },
+    {
+      "label": "Conductors and insulators told apart",
+      "value": "1729",
+      "who": "Stephen Gray, England"
+    },
+    {
+      "label": "Two kinds of charge: like repels, unlike attracts",
+      "value": "1733",
+      "who": "Charles du Fay, France"
+    },
+    {
+      "label": "Inverse-square law proposed in print",
+      "value": "1767",
+      "who": "Joseph Priestley, England"
+    },
+    {
+      "label": "Inverse-square law tested (unpublished)",
+      "value": "1773",
+      "who": "Henry Cavendish, England"
+    },
+    {
+      "label": "Force between charges measured",
+      "value": "1785",
+      "who": "Charles-Augustin de Coulomb, France"
+    },
+    {
+      "label": "Charge of one electron measured",
+      "value": "1909",
+      "who": "Millikan and Fletcher, United States"
+    },
+    {
+      "label": "Elementary charge fixed exactly",
+      "value": "2019",
+      "who": "General Conference on Weights and Measures"
+    }
+  ],
+  "people": [
+    {
+      "name": "Thales of Miletus",
+      "life": "c. 624 – c. 546 BCE",
+      "role": "Philosopher",
+      "from": "Greece",
+      "note": "Said by later writers to have noticed that rubbed amber attracts light objects."
+    },
+    {
+      "name": "Stephen Gray",
+      "life": "1666 – 1736",
+      "role": "Dyer and experimenter",
+      "from": "England",
+      "note": "Showed that charge can be carried along some materials and not others; won the first Copley Medal in 1731."
+    },
+    {
+      "name": "Charles François de Cisternay du Fay",
+      "life": "1698 – 1739",
+      "role": "Chemist, keeper of the Jardin du Roi",
+      "from": "France",
+      "note": "Found the two kinds of electricity and the rule that like repels and unlike attracts."
+    },
+    {
+      "name": "Benjamin Franklin",
+      "life": "1706 – 1790",
+      "role": "Printer, scientist and statesman",
+      "from": "United States",
+      "note": "Named positive and negative charge and showed that lightning is electrical."
+    },
+    {
+      "name": "Joseph Priestley",
+      "life": "1733 – 1804",
+      "role": "Chemist and teacher",
+      "from": "England",
+      "note": "Proposed in 1767 that electric force follows an inverse-square law, like gravity."
+    },
+    {
+      "name": "Henry Cavendish",
+      "life": "1731 – 1810",
+      "role": "Natural philosopher",
+      "from": "England",
+      "note": "Tested the inverse-square law with nested globes in 1773 but left it unpublished for a century."
+    },
+    {
+      "name": "Charles-Augustin de Coulomb",
+      "life": "1736 – 1806",
+      "role": "Military engineer and physicist",
+      "from": "France",
+      "note": "Built forts in Martinique, studied friction and twisting wires, then measured the force between charges with his torsion balance."
+    },
+    {
+      "name": "Robert Millikan",
+      "life": "1868 – 1953",
+      "role": "Physicist",
+      "from": "United States",
+      "note": "With Harvey Fletcher, measured the charge of the electron using oil drops."
+    },
+    {
+      "name": "Chester Carlson",
+      "life": "1906 – 1968",
+      "role": "Patent attorney and inventor",
+      "from": "United States",
+      "note": "Invented xerography, the dry copying process that uses static charge to place toner."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Two charges of one coulomb each, a metre apart, would push with about 9 billion newtons: the weight of some 900,000 tonnes. Everyday static charges are millionths of a coulomb or less.",
+    "Between two protons, the electric push is 1.2 × 10³⁶ times stronger than the pull of their gravity, at any distance.",
+    "Coulomb's wire was so fine that a full turn of twist took a force of only 1/340 of a grain at the needle, about 1.5 millionths of a newton.",
+    "Ancient Chinese pharmacologists told real amber from fakes by rubbing it and seeing whether it picked up bits of straw.",
+    "People do not usually feel a static shock below about 3,000 volts, yet walking on a carpet in dry air can charge a person to more than 10,000 volts."
+  ],
+  "sources": [
+    {
+      "title": "Coulomb's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coulomb%27s_law"
+    },
+    {
+      "title": "Electric charge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_charge"
+    },
+    {
+      "title": "Triboelectric effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Triboelectric_effect"
+    },
+    {
+      "title": "Stephen Gray (scientist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Gray_(scientist)"
+    },
+    {
+      "title": "Charles François de Cisternay du Fay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_Fran%C3%A7ois_de_Cisternay_du_Fay"
+    },
+    {
+      "title": "Leyden jar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leyden_jar"
+    },
+    {
+      "title": "Kite experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kite_experiment"
+    },
+    {
+      "title": "Joseph Priestley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Priestley"
+    },
+    {
+      "title": "Henry Cavendish",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Cavendish"
+    },
+    {
+      "title": "No actual measurement … was required: Maxwell and Cavendish's null method for the inverse square law of electrostatics (I. Falconer)",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/1608.01520"
+    },
+    {
+      "title": "Charles-Augustin de Coulomb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb"
+    },
+    {
+      "title": "Coulomb's remarkable experiment in electricity (1785): a translation of the first memoir",
+      "publisher": "Skulls in the Stars",
+      "url": "https://skullsinthestars.com/2026/03/19/coulombs-remarkable-experiment-in-electricity-1785/"
+    },
+    {
+      "title": "Coulomb's torsion balance (replica and replication studies)",
+      "publisher": "Europa-Universität Flensburg, histolab",
+      "url": "https://www.uni-flensburg.de/en/working-group-physics/histolab/thematical-subsections/electricity/coulombs-torsion-balance"
+    },
+    {
+      "title": "Faraday's ice pail experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Faraday%27s_ice_pail_experiment"
+    },
+    {
+      "title": "Coulomb (unit)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coulomb"
+    },
+    {
+      "title": "Electrostatic precipitator",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electrostatic_precipitator"
+    },
+    {
+      "title": "Oil drop experiment",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oil_drop_experiment"
+    },
+    {
+      "title": "Rutherford scattering experiments",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rutherford_scattering_experiments"
+    },
+    {
+      "title": "Chester Carlson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chester_Carlson"
+    },
+    {
+      "title": "Xerography",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Xerography"
+    },
+    {
+      "title": "2019 revision of the SI",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2019_revision_of_the_SI"
+    },
+    {
+      "title": "SI base unit: ampere",
+      "publisher": "BIPM",
+      "url": "https://www.bipm.org/en/si-base-units/ampere"
+    },
+    {
+      "title": "CODATA value: elementary charge",
+      "publisher": "NIST",
+      "url": "https://physics.nist.gov/cgi-bin/cuu/Value?e"
+    },
+    {
+      "title": "Probing minicharged particles with tests of Coulomb's law (table of tests of the exponent)",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/0904.1547"
+    },
+    {
+      "title": "Static electricity",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Static_electricity"
+    },
+    {
+      "title": "Electrostatic discharge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electrostatic_discharge"
+    }
+  ]
+}

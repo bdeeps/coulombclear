@@ -1,0 +1,126 @@
+{
+  "slug": "coulombclear",
+  "box": 28,
+  "question": "What is Coulomb's law?",
+  "url": "https://glassbox.how/e/coulombclear/",
+  "app": "https://glassbox.how/coulombclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a rubbed lump of amber to a twisting silver wire, a counted electron and a unit fixed by a constant of nature.\n\n600 BCE: Rubbed amber picks up straw\n1600: Electricity gets a name\n1729: Charge can travel: conductors and insulators\n1733: Two kinds of electricity\n1747: Positive and negative\n1767: Priestley guesses the inverse square\n\nThe full story, with 20 moments, sources and charts: glassbox.how/e/coulombclear/history (link in bio)\n\nThen play with how it works: glassbox.how/coulombclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #coulombslaw #electriccharge #staticelectricity #electrostatics #inversesquarelaw #electricfield #history",
+      "youtube": {
+        "title": "The history of Coulomb's law in 45 seconds #shorts",
+        "description": "From a rubbed lump of amber to a twisting silver wire, a counted electron and a unit fixed by a constant of nature.\n\n600 BCE · Rubbed amber picks up straw (Thales of Miletus (attributed))\n1600 · Electricity gets a name (William Gilbert)\n1729 · Charge can travel: conductors and insulators (Stephen Gray and Granville Wheler)\n1733 · Two kinds of electricity (Charles François de Cisternay du Fay)\n1747 · Positive and negative (Benjamin Franklin (and William Watson))\n1767 · Priestley guesses the inverse square (Joseph Priestley)\n\n▶ Full history: https://glassbox.how/e/coulombclear/history/\n▶ Play with it: https://glassbox.how/e/coulombclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is Coulomb's law?\n\nTwo protons push each other apart 10³⁶ times harder than gravity pulls them together. Trace field lines from the charges themselves, twist Coulomb's silver wire from 1785, hang two rubbed balloons, get zapped by a door handle on a dry winter day, stand under a thundercloud, and watch toner leap in a laser printer.\n\n→ Like charges repel: F = k q₁ q₂ ÷ r². Double the distance and the push drops to a quarter.\n→ In 1785 Coulomb measured it with a twisting silver wire. Half the distance took four times the twist.\n→ With many charges, add the pushes one by one. Field lines trace the total, from plus to minus.\n→ Rub two balloons on your hair. Both gain electrons, and like charges push apart.\n→ On a dry winter day a walk across a carpet can charge you to 30,000 volts. Then: zap.\n\nPlay with it yourself. It's free and open source: glassbox.how/coulombclear (link in bio)\n\nBox No. L28 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #coulombslaw #electriccharge #staticelectricity #electrostatics #inversesquarelaw #electricfield #fieldlines #superposition #torsionbalance",
+    "carousel": "Swipe through: What is Coulomb's law?\n\nTwo protons push each other apart 10³⁶ times harder than gravity pulls them together. Trace field lines from the charges themselves, twist Coulomb's silver wire from 1785, hang two rubbed balloons, get zapped by a door handle on a dry winter day, stand under a thundercloud, and watch toner leap in a laser printer.\n\nSave this for later, then play with the interactive version at glassbox.how/coulombclear (link in bio).\n\nBox No. L28 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #coulombslaw #electriccharge #staticelectricity #electrostatics #inversesquarelaw #electricfield",
+    "youtube": {
+      "title": "What is Coulomb's law? #shorts",
+      "description": "Two protons push each other apart 10³⁶ times harder than gravity pulls them together. Trace field lines from the charges themselves, twist Coulomb's silver wire from 1785, hang two rubbed balloons, get zapped by a door handle on a dry winter day, stand under a thundercloud, and watch toner leap in a laser printer.\n\n▶ Play with it: https://glassbox.how/e/coulombclear/\n⌘ Source code (MIT): https://github.com/bdeeps/coulombclear\n\nBox No. L28 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is Coulomb's law? (interactive explainer)",
+      "description": "Two protons push each other apart 10³⁶ times harder than gravity pulls them together. Trace field lines from the charges themselves, twist Coulomb's silver wire from 1785, hang two rubbed balloons, get zapped by a door handle on a dry winter day, stand under a thundercloud, and watch toner leap in a laser printer.\n\n▶ Play with the interactive version: https://glassbox.how/e/coulombclear/\n⌘ Source code (MIT): https://github.com/bdeeps/coulombclear\n\nIn this video:\n• Like repels, unlike attracts. F = k q₁ q₂ ÷ r², with k = 8.99 × 10⁹ N m²/C².\n• Many charges: add the arrows. With several charges, work out each push alone and add them.\n• Static at home. Rubbing moves electrons; it never makes charge.\n• From thunderclouds to toner. A cloud with ±40 C at 6 and 12 km makes about 15 kV/m at the ground below, and its two charge centres pull on each other with 400 kN.\n• Gravity's twin, and the limits. Same shape as gravity, but 1.2 × 10³⁶ times stronger between two protons.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is Coulomb's law?\n\nTwo protons push each other apart 10³⁶ times harder than gravity pulls them together.\n\nPlay with it: https://glassbox.how/e/coulombclear/",
+    "linkedin": "What is Coulomb's law?\n\nTwo protons push each other apart 10³⁶ times harder than gravity pulls them together. Trace field lines from the charges themselves, twist Coulomb's silver wire from 1785, hang two rubbed balloons, get zapped by a door handle on a dry winter day, stand under a thundercloud, and watch toner leap in a laser printer.\n\n1. Like repels, unlike attracts\n2. Many charges: add the arrows\n3. Static at home\n4. From thunderclouds to toner\n5. Gravity's twin, and the limits\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L28 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/coulombclear/\nCode: https://github.com/bdeeps/coulombclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T11:01:48.595Z"
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "coulombclear",
+  "kind": "principle",
+  "box": 28,
+  "date": "2026-10-03",
+  "title": "Coulomb's law",
+  "question": "What is Coulomb's law?",
+  "principle": {
+    "type": "law",
+    "name": "Coulomb's law",
+    "formula": "F = k × q₁q₂ ÷ r²",
+    "formulaNote": "force = k × charge₁ × charge₂ ÷ distance²: double either charge and the force doubles; double the distance between their centres and it drops to a quarter. Like charges push apart, unlike charges pull together. k = 8.99 × 10⁹ N m²/C²",
+    "idea": "Electric charges push or pull on each other: like charges repel and unlike charges attract. The force grows with both charges and falls with the square of the distance between them.",
+    "discovered": "1785 · Charles-Augustin de Coulomb, Paris (torsion balance); guessed by Joseph Priestley in 1767 and tested, unpublished, by Henry Cavendish in 1773",
+    "art": "bolt",
+    "appliesTo": [
+      "stormclear",
+      "printerclear",
+      "micclear",
+      "xrayclear",
+      "chimneyclear"
+    ],
+    "examples": [
+      {
+        "title": "Lightning",
+        "text": "A thundercloud holds tens of coulombs of negative charge about 6 km up. It pulls the ground below positive, and when the field grows strong enough a flash carries about 15 coulombs down.",
+        "box": "stormclear"
+      },
+      {
+        "title": "A laser printer's toner",
+        "text": "Each 8 µm grain of toner carries about 6 femtocoulombs. In the million-volt-per-metre field beside the drum, the pull on it is about 2,000 times its weight, so it leaps onto the laser spots.",
+        "box": "printerclear"
+      },
+      {
+        "title": "A condenser microphone",
+        "text": "A thin charged film sits about 25 µm from a metal plate, with 48 V across the gap: a field near 2 million V/m. Sound moves the film and the voltage follows.",
+        "box": "micclear"
+      },
+      {
+        "title": "An X-ray tube",
+        "text": "80,000 volts between the filament and the target pull electrons across the tube to about half the speed of light. Stopping them suddenly makes X-rays.",
+        "box": "xrayclear"
+      },
+      {
+        "title": "The spark of a gas lighter",
+        "text": "Air is an insulator until the field reaches about 3 million V/m. A hob's igniter builds roughly 14,000 V across a 4 mm gap, the air breaks down, and a spark lights the gas.",
+        "box": "chimneyclear"
+      },
+      {
+        "title": "Two rubbed balloons",
+        "text": "Rub two balloons on your hair and hang them from one hook. With half a microcoulomb each they push apart with 8 millinewtons and hang about half a metre from each other."
+      },
+      {
+        "title": "A comb and scraps of paper",
+        "text": "A charged comb shifts the charges inside neutral paper. The near side is pulled harder than the far side is pushed, so the scrap jumps, but only from a centimetre or two away."
+      },
+      {
+        "title": "The winter door-handle zap",
+        "text": "Walking on a carpet in dry air can charge your body to 30,000 V. Reach for a metal handle and the last few millimetres of air break down in a spark. In the humid monsoon the charge leaks away first."
+      },
+      {
+        "title": "Salt dissolving in water",
+        "text": "Water weakens the pull between a sodium and a chloride ion about 80 times, down to a couple of times the jiggle of heat. So salt falls apart in water but not in oil."
+      },
+      {
+        "title": "What holds an atom together",
+        "text": "In a hydrogen atom the proton pulls the electron with 82 billionths of a newton. That is 2 × 10³⁹ times stronger than the gravity between them."
+      }
+    ]
+  },
+  "hook": "Two protons push each other apart 10³⁶ times harder than gravity pulls them together. Trace field lines from the charges themselves, twist Coulomb's silver wire from 1785, hang two rubbed balloons, get zapped by a door handle on a dry winter day, stand under a thundercloud, and watch toner leap in a laser printer.",
+  "thumbText": "COULOMB'S LAW",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "coulomb's law",
+    "electric charge",
+    "static electricity",
+    "electrostatics",
+    "inverse-square law",
+    "electric field",
+    "field lines",
+    "superposition",
+    "torsion balance",
+    "lightning",
+    "conductors and insulators",
+    "laser printer",
+    "faraday cage",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Like repels, unlike attracts",
+      "text": "F = k q₁ q₂ ÷ r², with k = 8.99 × 10⁹ N m²/C². Two balls with a microcoulomb each, half a metre apart, push with 36 mN. Double the distance and the force drops to a quarter. Coulomb measured it in 1785 with a twisting silver wire: half the distance needed four times the twist."
+    },
+    {
+      "title": "Many charges: add the arrows",
+      "text": "With several charges, work out each push alone and add them. That sum, per unit of charge, is the electric field, and field lines trace it from plus to minus. It also explains why a charged comb lifts neutral paper: the field polarises the scrap, and the pull falls as fast as 1 ÷ r⁵."
+    },
+    {
+      "title": "Static at home",
+      "text": "Rubbing moves electrons; it never makes charge. Two balloons with 0.5 µC each hang half a metre apart. On a dry winter day a walk across a carpet can charge you to 30,000 V, about 4 µC and 50 mJ, and a spark jumps to the door handle. In humid air the charge leaks away."
+    },
+    {
+      "title": "From thunderclouds to toner",
+      "text": "A cloud with ±40 C at 6 and 12 km makes about 15 kV/m at the ground below, and its two charge centres pull on each other with 400 kN. In a laser printer a field of 1 MV/m throws each toner grain at the drum with 2,000 times its weight."
+    },
+    {
+      "title": "Gravity's twin, and the limits",
+      "text": "Same shape as gravity, but 1.2 × 10³⁶ times stronger between two protons. Gravity still rules planets because charges cancel. Inside a charged shell there is no force, but only if the power is exactly 2: measured to 16 decimal places. That shell effect, not rubber tyres, keeps you safe in a car in a storm."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Electric charge",
+      "def": "A property of matter, positive or negative, that makes it push or pull other charges. Measured in coulombs."
+    },
+    {
+      "term": "Coulomb's law",
+      "def": "The force between two charges is k q₁ q₂ ÷ r²: a push for like charges, a pull for unlike ones."
+    },
+    {
+      "term": "Coulomb's constant (k)",
+      "def": "8.99 × 10⁹ N m²/C²: the force between two 1 C charges 1 m apart."
+    },
+    {
+      "term": "Inverse-square law",
+      "def": "A force that falls with the square of distance: twice as far, a quarter as strong."
+    },
+    {
+      "term": "Electric field",
+      "def": "The force on each coulomb of charge at a point, in volts per metre. Field lines show its direction."
+    },
+    {
+      "term": "Superposition",
+      "def": "The total force from many charges is the sum of the forces from each one alone."
+    },
+    {
+      "term": "Conductor and insulator",
+      "def": "Charge moves freely through a conductor such as metal, and stays put on an insulator such as rubber or dry air."
+    },
+    {
+      "term": "Faraday cage",
+      "def": "A closed metal shell. Charge stays on its outside, so the field inside is zero."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "coulombclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
